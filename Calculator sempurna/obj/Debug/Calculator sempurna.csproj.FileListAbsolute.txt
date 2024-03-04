@@ -1,0 +1,8 @@
+D:\23.11.5737\Perco1\Calculator sempurna\bin\Debug\Calculator sempurna.exe.config
+D:\23.11.5737\Perco1\Calculator sempurna\bin\Debug\Calculator sempurna.exe
+D:\23.11.5737\Perco1\Calculator sempurna\bin\Debug\Calculator sempurna.pdb
+D:\23.11.5737\Perco1\Calculator sempurna\obj\Debug\Calculator sempurna.csproj.AssemblyReference.cache
+D:\23.11.5737\Perco1\Calculator sempurna\obj\Debug\Calculator sempurna.csproj.SuggestedBindingRedirects.cache
+D:\23.11.5737\Perco1\Calculator sempurna\obj\Debug\Calculator sempurna.csproj.CoreCompileInputs.cache
+D:\23.11.5737\Perco1\Calculator sempurna\obj\Debug\Calculator sempurna.exe
+D:\23.11.5737\Perco1\Calculator sempurna\obj\Debug\Calculator sempurna.pdb
